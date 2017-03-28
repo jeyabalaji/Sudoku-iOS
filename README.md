@@ -9,4 +9,4 @@ In the third viewController, A collection view containing 81 tiles is generated.
 
 When the user enters the puzzle, he/she is expected to enter the values that are appropriate in the puzzle. When the user fills all the values in the grid, the “Check” button is clicked. This compares the arrays and returns a result whether the user has solved the puzzle correctly or not.   The whole application is designed with a Japanese theme to dedicate and remember the origin of Sudoku. The application was well tested on iPhone 5, iPhone 5s.
 
-[Alt text](https://raw.githubusercontent.com/jeyabalaji/Sudoku-iOS/master/Screenshots/1.png.jpg?raw=true "Splash Screen")
+[Screen Shot: Splash Screen](https://raw.githubusercontent.com/jeyabalaji/Sudoku-iOS/master/Screenshots/1.png?raw=true "Splash Screen")
